@@ -1,5 +1,6 @@
 ## Nupur's Portfolio
 Get to know about some of my awesome projects!
+
 ---
 
 ### Category Name 1 
