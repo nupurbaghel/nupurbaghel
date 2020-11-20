@@ -1,13 +1,14 @@
 title: Nupur Baghel
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+logo: "/images/logo.png?raw=true"
+description:
   Graduate Student
   <br>
   University of Pennsylvania 
-  <br><
+  <br>
   Software Developer, Open Source Geek
   <br><br>
   <a href="https://www.linkedin.com/in/nupur-baghel/">View My LinkedIn Profile</a>
+  <br>
   <a href="https://twitter.com/nupur_baghel">Connect on Twitter</a>
   
 theme: jekyll-theme-minimal
